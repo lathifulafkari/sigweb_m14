@@ -1,0 +1,65 @@
+body {
+  background-color: #86cbff;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  padding: 15px;
+  border: 2px solid rgb(0, 0, 0);
+  text-align: center;
+}
+
+nav {
+  background-color: #e281;
+  padding: 10px;
+  border: 2px solid rgb(0, 0, 0);
+  text-align: center;
+}
+
+section {
+  background-color: rgb(255, 238, 224);
+  padding: 20px;
+  border: 2px solid rgb(0, 0, 0);
+  margin: 20px;
+}
+
+h2 {
+  color: #000000;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 2px solid black;
+  padding: 8px;
+}
+
+th {
+  background-color: #99c2ff;
+}
+
+.nama {
+  color: red;
+}
+
+.prodi {
+  color: red;
+}
+
+.kampus {
+  color: red;
+}
+
+footer {
+  background-color: #86cbff;
+  color: black;
+  padding: 10px;
+  border: 3px solid black;
+  text-align: center;
+}
